@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coconutbanana
+- 👋 Hi, I’m @jchuah00
 - 👀 I’m interested in programming, not that good but I wanna get better at it. 
 - 🌱 I’m currently learning Python (still at the early stages of learning)
 - 💞️ I’m looking to collaborate on (nothing I have in mind yet)
